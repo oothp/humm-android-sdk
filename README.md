@@ -2,15 +2,6 @@
 
 # Use our API to build your own innovative -- and 100% legal -- music solutions or build music into your services.
 
-#### Dependencies
-
-The sdk uses Gson library 2.8.0.
-
-#### Installation
-
-# Add the next dependency into your app's graddle config file:
-
-  #  compile 'android:humm-sdk:0.1.1@aar'
 
 #### Usage
 
